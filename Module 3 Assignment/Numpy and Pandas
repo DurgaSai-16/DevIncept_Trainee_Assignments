@@ -1,0 +1,31 @@
+# Numpy and Pandas Assignment by Durga Sai Nallani
+- Numpy
+  - Numpy Arrays
+    - Printing basic Arrays
+    - Arrays using np.zeros(), np.ones(), np.arange()
+    - N Dimensional Arrays
+      -2D Array(2 Dimensional Array) and Checking the number of dimensions using "ndim"
+    - Arithematic Operations using Arrays
+    - Array Indexing and Slicing
+  - Numpy Functions
+    - Shape,size,dimension
+    - Reshape
+      - 1D to 2D
+      - 1D to 3D
+      - Multiple D to 1D
+      - Sorting, Searching
+  -  Mean Median Mode & Standard Deviation (σ)
+
+- Pandas
+  - Creating Pandas series
+    - Series from Arrays
+    - Series from Lists
+  - Accessing Elements from series
+    - With Position
+    - With Index
+  - Indexing and Selecting Data in Series
+    - Indexing a Series using indexing operator [ ]
+    - Indexing a Series using .loc[]
+    - Indexing a Series using .iloc[]
+  - Binary Operation on Series
+  - Conversion Operation on Series
